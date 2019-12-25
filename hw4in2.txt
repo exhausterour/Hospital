@@ -1,0 +1,11 @@
+doctorArrives 0500 Andrews
+doctorArrives 0505 Bishop
+patientArrives 1000 Harry 3
+doctorArrives 1009 Franklin
+patientArrives 1030 Isaac 2
+patientArrives 1032 Joseph 1
+patientArrives 1033 Kim 3
+patientArrives 1034 Lou 2
+patientArrives 1035 Marie 1
+patientArrives 1036 Nancy 4
+doctorArrives 1037 Daniels

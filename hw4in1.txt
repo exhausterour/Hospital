@@ -1,0 +1,12 @@
+doctorArrives 1025 Andrews
+doctorArrives 1035 Bishop
+patientArrives 1036 Alice 5
+doctorArrives 1045 Collins
+doctorArrives 1050 Dennis
+doctorArrives 1100 Evans
+patientArrives 1102 Bob 2
+patientArrives 1105 Carol 3
+patientArrives 1107 David 1
+patientArrives 1108 Elijah 4
+patientArrives 1109 Frank 4
+patientArrives 1110 George 5

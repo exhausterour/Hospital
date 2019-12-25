@@ -1,0 +1,26 @@
+doctorArrives 1025 Andrews
+doctorArrives 1035 Bishop
+patientArrives 1036 Alice 5
+doctorStartsTreatingPatient 1036 Andrews Alice
+doctorFinishesTreatmentAndPatientDeparts 1038 Andrews Alice
+doctorArrives 1045 Collins
+doctorArrives 1050 Dennis
+doctorArrives 1100 Evans
+patientArrives 1102 Bob 2
+doctorStartsTreatingPatient 1102 Bishop Bob
+patientArrives 1105 Carol 3
+doctorStartsTreatingPatient 1105 Andrews Carol
+patientArrives 1107 David 1
+doctorStartsTreatingPatient 1107 Collins David
+patientArrives 1108 Elijah 4
+doctorStartsTreatingPatient 1108 Dennis Elijah
+patientArrives 1109 Frank 4
+doctorStartsTreatingPatient 1109 Evans Frank
+patientArrives 1110 George 5
+doctorFinishesTreatmentAndPatientDeparts 1112 Dennis Elijah
+doctorStartsTreatingPatient 1112 Dennis George
+doctorFinishesTreatmentAndPatientDeparts 1113 Andrews Carol
+doctorFinishesTreatmentAndPatientDeparts 1113 Evans Frank
+doctorFinishesTreatmentAndPatientDeparts 1114 Dennis George
+doctorFinishesTreatmentAndPatientDeparts 1118 Bishop Bob
+doctorFinishesTreatmentAndPatientDeparts 1139 Collins David

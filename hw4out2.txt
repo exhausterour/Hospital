@@ -1,0 +1,25 @@
+doctorArrives 0500 Andrews
+doctorArrives 0505 Bishop
+patientArrives 1000 Harry 3
+doctorStartsTreatingPatient 1000 Andrews Harry
+doctorFinishesTreatmentAndPatientDeparts 1008 Andrews Harry
+doctorArrives 1009 Franklin
+patientArrives 1030 Isaac 2
+doctorStartsTreatingPatient 1030 Bishop Isaac
+patientArrives 1032 Joseph 1
+doctorStartsTreatingPatient 1032 Andrews Joseph
+patientArrives 1033 Kim 3
+doctorStartsTreatingPatient 1033 Franklin Kim
+patientArrives 1034 Lou 2
+patientArrives 1035 Marie 1
+patientArrives 1036 Nancy 4
+doctorArrives 1037 Daniels
+doctorStartsTreatingPatient 1037 Daniels Marie
+doctorFinishesTreatmentAndPatientDeparts 1041 Franklin Kim
+doctorStartsTreatingPatient 1041 Franklin Lou
+doctorFinishesTreatmentAndPatientDeparts 1046 Bishop Isaac
+doctorStartsTreatingPatient 1046 Bishop Nancy
+doctorFinishesTreatmentAndPatientDeparts 1050 Bishop Nancy
+doctorFinishesTreatmentAndPatientDeparts 1057 Franklin Lou
+doctorFinishesTreatmentAndPatientDeparts 1104 Andrews Joseph
+doctorFinishesTreatmentAndPatientDeparts 1109 Daniels Marie
